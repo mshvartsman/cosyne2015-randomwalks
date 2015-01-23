@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mshvartsman.github.io/cosyne2015-randomwalks/sitemap.xml 

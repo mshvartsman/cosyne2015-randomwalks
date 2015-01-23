@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Random Walk Models Across Decision Making Domains (Cosyne 2015)]]></title>
+  <link href="http://mshvartsman.github.io/cosyne2015-randomwalks/atom.xml" rel="self"/>
+  <link href="http://mshvartsman.github.io/cosyne2015-randomwalks/"/>
+  <updated>2015-01-23T13:21:38-05:00</updated>
+  <id>http://mshvartsman.github.io/cosyne2015-randomwalks/</id>
+  <author>
+    <name><![CDATA[A. Shenhav, M. Shartsman, R. Wilson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
